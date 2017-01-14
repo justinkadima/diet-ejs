@@ -1,0 +1,27 @@
+{
+  "name": "diet-ejs",
+  "version": "1.0.0",
+  "description": "dietjs support for ejs template engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinkadima/diet-ejs.git"
+  },
+  "keywords": [
+    "dietjs",
+    "ejs",
+    "template"
+  ],
+  "author": "Justin Kadima <justinkadima@gmail.com> (http://github.com/justinkadima)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinkadima/diet-ejs/issues"
+  },
+  "homepage": "https://github.com/justinkadima/diet-ejs#readme",
+  "dependencies": {
+    "ejs": "^2.5.5"
+  }
+}
