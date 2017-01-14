@@ -2,10 +2,6 @@ var ejs=require('ejs');
 var fs=require('fs');
 
 
-
-
-
-
 module.exports=function(options){
 
 	var options=options||{};
